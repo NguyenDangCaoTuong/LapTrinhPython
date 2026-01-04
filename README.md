@@ -16,8 +16,6 @@ Customer Segmentation Analysis là dự án ứng dụng Machine Learning để 
 
 Dự án được tổ chức đơn giản, thuận tiện cho việc chạy và kiểm thử:
 
-Plaintext
-
 CUSTOMER_SEGMENTATION/
 
 │
