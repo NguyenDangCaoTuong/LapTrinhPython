@@ -51,7 +51,7 @@ Danh sách chi tiết được quản lý trong file requirements.txt.
 *	Kết quả giúp doanh nghiệp:
     *	Xác định nhóm khách hàng tiềm năng
     *	Đề xuất chiến lược marketing phù hợp cho từng phân khúc
-# 6. Phân công công việc nhóm
+# 6. Phân công nhiệm vụ nhóm
 |STT|Họ và tên|MSSV|Phân công công việc|Mức độ hoàn thành|
 |:--:|:--:|:--:|:--:|:--:|
 |1|Bùi Quang Hòa|24110213|Làm mã nguồn và viết Chương 3|100%|
