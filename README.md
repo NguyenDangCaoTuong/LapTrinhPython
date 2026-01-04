@@ -65,7 +65,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Lưu ý: Đảm bảo file Mall_Customers.csv nằm cùng thư mục với file mã nguồn.
+*Lưu ý:* Đảm bảo file Mall_Customers.csv nằm cùng thư mục với file mã nguồn.
 # 8. Kết luận
 Dự án đã áp dụng thành công các kỹ thuật phân tích dữ liệu và học máy không giám sát để phân khúc khách hàng. Kết quả đạt được mang tính thực tiễn cao và có thể mở rộng trong tương lai bằng cách:
 * Thử nghiệm các thuật toán phân cụm khác (DBSCAN, Hierarchical Clustering)
