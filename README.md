@@ -49,28 +49,23 @@ Danh sách chi tiết được quản lý trong file requirements.txt.
     *	Xác định nhóm khách hàng tiềm năng
     *	Đề xuất chiến lược marketing phù hợp cho từng phân khúc
 # 6. Phân công công việc nhóm
-| STT | Họ và tên | MSSV | Phân công công việc | Mức độ hoàn thành |
-|:---:|:---|:---:|:---|:---:|
-| 1 | **Bùi Quang Hòa** | 24110213 | Làm mã nguồn và viết Chương 3 | 100% |
-| 2 | **Võ Thành Phát** | 24110300 | Tìm tài liệu và viết Chương 1 | 100% |
-| 3 | **Nguyễn Ngọc Thiện** | 24110335 | Làm mã nguồn và viết Chương 2 | 100% |
-| 4 | **Lý Đông Thịnh** | 24110337 | Làm mã nguồn và viết Chương 3 | 100% |
-| 5 | **Nguyễn Đặng Cao Trường** | 24110375 | Tìm tài liệu, viết phần Mở đầu và Kết luận | 100% |
-________________________________________
-## 7. Hướng dẫn chạy chương trình
-
-**Bước 1:** Cài đặt các thư viện cần thiết:
+|STT|Họ và tên|MSSV|Phân công công việc|Mức độ hoàn thành|
+|:--:|:--:|:--:|:--:|:--:|
+|1|Bùi Quang Hòa|24110213|Làm mã nguồn và viết Chương 3|100%|
+|2|Võ Thành Phát|24110300|Tìm tài liệu và viết Chương 1|100%|
+|3|Nguyễn Ngọc Thiện|24110335|Làm mã nguồn và viết Chương 2|100%|
+|4|Lý Đông Thịnh|24110337|Làm mã nguồn và viết Chương 3|100%|
+|5|Nguyễn Đặng Cao Trường|24110375|Tìm tài liệu, viết phần Mở đầu và Kết luận|100%|
+# 7. Hướng dẫn chạy chương trình
+```
 pip install -r requirements.txt
-
-**Bước 2:** Chạy chương trình chính:
 python main.py
-Lưu ý: Đảm bảo file Mall_Customers.csv nằm cùng thư mục với file mã nguồn main.py.
-________________________________________
-## 8. Kết luận
+```
+
+Lưu ý: Đảm bảo file Mall_Customers.csv nằm cùng thư mục với file mã nguồn.
+# 8. Kết luận
 Dự án đã áp dụng thành công các kỹ thuật phân tích dữ liệu và học máy không giám sát để phân khúc khách hàng. Kết quả đạt được mang tính thực tiễn cao và có thể mở rộng trong tương lai bằng cách:
 * Thử nghiệm các thuật toán phân cụm khác (DBSCAN, Hierarchical Clustering)
 * Tích hợp thêm dữ liệu thời gian thực
 * Xây dựng dashboard trực quan
-________________________________________
-Nhóm thực hiện – Ngành Công nghệ Thông tin
 
