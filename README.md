@@ -49,12 +49,13 @@ Danh sách chi tiết được quản lý trong file requirements.txt.
     *	Xác định nhóm khách hàng tiềm năng
     *	Đề xuất chiến lược marketing phù hợp cho từng phân khúc
 # 6. Phân công công việc nhóm
-STT	Họ và tên	MSSV	Phân công công việc	Mức độ hoàn thành
-1	Bùi Quang Hòa	24110213	Làm mã nguồn và viết Chương 3	100%
-2	Võ Thành Phát	24110300	Tìm tài liệu và viết Chương 1	100%
-3	Nguyễn Ngọc Thiện	24110335	Làm mã nguồn và viết Chương 2	100%
-4	Lý Đông Thịnh	24110337	Làm mã nguồn và viết Chương 3	100%
-5	Nguyễn Đặng Cao Trường	24110375	Tìm tài liệu, viết phần Mở đầu và Kết luận	100%
+| STT | Họ và tên | MSSV | Phân công công việc | Mức độ hoàn thành |
+|:---:|:---|:---:|:---|:---:|
+| 1 | **Bùi Quang Hòa** | 24110213 | Làm mã nguồn và viết Chương 3 | 100% |
+| 2 | **Võ Thành Phát** | 24110300 | Tìm tài liệu và viết Chương 1 | 100% |
+| 3 | **Nguyễn Ngọc Thiện** | 24110335 | Làm mã nguồn và viết Chương 2 | 100% |
+| 4 | **Lý Đông Thịnh** | 24110337 | Làm mã nguồn và viết Chương 3 | 100% |
+| 5 | **Nguyễn Đặng Cao Trường** | 24110375 | Tìm tài liệu, viết phần Mở đầu và Kết luận | 100% |
 ________________________________________
 7. Hướng dẫn chạy chương trình
 pip install -r requirements.txt
