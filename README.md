@@ -26,6 +26,7 @@ Danh sách chi tiết được quản lý trong file requirements.txt.
     *	Tổng chi tiêu (Total_Spending)
     *	Tổng số con (Total_Children)
     *	Thời gian gắn bó với doanh nghiệp (Customer_Since)
+
 **4.2 Phân tích khám phá dữ liệu (EDA)**
 *	Phân phối tuổi, thu nhập, mức chi tiêu
 *	Phân tích mối tương quan giữa các biến
@@ -33,10 +34,12 @@ Danh sách chi tiết được quản lý trong file requirements.txt.
     *	Trình độ học vấn
     *	Tình trạng hôn nhân
     *	Nhóm tuổi
+
 **4.3 Phân cụm khách hàng**
 *	Chuẩn hóa dữ liệu bằng StandardScaler
 *	Sử dụng Elbow Method và Silhouette Score để xác định số cụm tối ưu
 *	Áp dụng thuật toán K-Means với số cụm được lựa chọn
+
 **4.4 Trực quan hóa kết quả**
 *	Giảm chiều dữ liệu bằng PCA (2D)
 *	Trực quan hóa các cụm khách hàng và tâm cụm (centroid)
