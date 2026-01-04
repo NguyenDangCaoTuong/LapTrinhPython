@@ -66,9 +66,9 @@ Lưu ý: Đảm bảo file Mall_Customers.csv nằm cùng thư mục với file 
 ________________________________________
 ## 8. Kết luận
 Dự án đã áp dụng thành công các kỹ thuật phân tích dữ liệu và học máy không giám sát để phân khúc khách hàng. Kết quả đạt được mang tính thực tiễn cao và có thể mở rộng trong tương lai bằng cách:
-•	Thử nghiệm các thuật toán phân cụm khác (DBSCAN, Hierarchical Clustering)
-•	Tích hợp thêm dữ liệu thời gian thực
-•	Xây dựng dashboard trực quan
+* Thử nghiệm các thuật toán phân cụm khác (DBSCAN, Hierarchical Clustering)
+* Tích hợp thêm dữ liệu thời gian thực
+* Xây dựng dashboard trực quan
 ________________________________________
 Nhóm thực hiện – Ngành Công nghệ Thông tin
 
